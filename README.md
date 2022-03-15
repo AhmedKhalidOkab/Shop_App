@@ -1,6 +1,6 @@
-# shop_app
-
-A new Flutter project.
+# shop_app 
+ 
+ Shop app like  amazon  
 
 ## Getting Started
 
